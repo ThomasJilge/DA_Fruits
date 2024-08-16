@@ -10,6 +10,9 @@ import { Component } from '@angular/core';
 })
 export class FruitlistComponent {
 
+  fontColorGood = 'green';
+  fontColorBad = 'red';
+
 fruitlist = [
   {
     name: "Apfel",
