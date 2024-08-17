@@ -58,4 +58,9 @@ fruitlist = [
   },
 ]
 
+numLog(index:number) {
+  console.log(index);
+  
+}
+
 }
